@@ -28,7 +28,7 @@
 
         layer_Layer__1 {
             bindings = <
-    &kp     &kp     &kp     &kp     &kp     &kp            &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp
+    &kp     &kp     &kp     &kp     &kp     &kp            &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp   &kp A     &kp
             >;
         };
 
