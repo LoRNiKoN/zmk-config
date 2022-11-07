@@ -8,7 +8,7 @@
   ],
   "layers": [
     [
-       "&kp ESC", "&kp NUMBER_1",    "&kp",    "&kp",    "&kp",    "&kp",           "&kp", "&kp TAB",  "&kp Q",  "&kp W",  "&kp E",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",  "&kp A",  "&kp S",  "&kp D",  "&kp F",    "&kp",    "&kp",    "&kp", "&kp LSHFT",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp", "&kp SPACE",    "&kp"
+          "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",           "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp",    "&kp"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
