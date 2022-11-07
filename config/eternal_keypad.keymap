@@ -22,7 +22,7 @@
 
         default_layer {
             bindings = <
- &kp ESC  &kp NUMBER_1     &kp     &kp     &kp     &kp            &kp  &kp TAB   &kp Q   &kp W   &kp E     &kp     &kp     &kp     &kp     &kp   &kp A   &kp S   &kp D   &kp F     &kp     &kp     &kp  &kp LSHFT     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp  &kp SPACE  &lt 1 undefined
+ &kp ESC  &kp NUMBER_1     &kp     &kp     &kp     &kp            &kp  &kp TAB   &kp Q   &kp W   &kp E     &kp     &kp     &kp     &kp     &kp   &kp A   &kp S   &kp D   &kp F     &kp     &kp     &kp  &kp LSHFT     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp     &kp  &kp SPACE     &kp
             >;
         };
 
